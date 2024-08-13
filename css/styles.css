@@ -7,10 +7,10 @@ body {
 }
 
 img {
-    width: 300px; /* Set a fixed width */
-    height: auto; /* Maintains the aspect ratio */
+    max-width: 300px; /* Ensure the image doesn't exceed 300px in width */
+    height: auto; /* Maintain aspect ratio */
     display: block;
-    margin: 0 auto; /* Centers the image */
+    margin: 20px auto; /* Center the image and add some space above */
 }
 
 nav ul {
