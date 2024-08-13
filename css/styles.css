@@ -6,11 +6,18 @@ body {
     background-color: #f4f4f4;
 }
 
-img {
-    max-width: 300px; /* Ensure the image doesn't exceed 300px in width */
-    height: auto; /* Maintain aspect ratio */
+.vertical-image {
+    width: 500px; /* or any specific width */
+    height: auto; /* Maintains the aspect ratio */
     display: block;
-    margin: 20px auto; /* Center the image and add some space above */
+    margin: 20px auto; /* Centers the image */
+}
+
+.horizontal-image {
+    width: auto; /* Maintains the aspect ratio */ 
+    height: 500px; /* or any specific width */
+    display: block;
+    margin: 20px auto; /* Centers the image */
 }
 
 nav ul {
