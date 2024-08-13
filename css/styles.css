@@ -7,8 +7,10 @@ body {
 }
 
 img {
-    max-width: 100%;
-    height: auto;
+    max-width: 35%; /* Adjust this percentage as needed */
+    height: auto;   /* Maintains the aspect ratio */
+    display: block;
+    margin: 0 auto; /* Centers the image */
 }
 
 nav ul {
