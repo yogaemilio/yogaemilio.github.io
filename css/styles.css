@@ -7,7 +7,7 @@ body {
 }
 
 img {
-    max-width: 35%; /* Adjust this percentage as needed */
+    max-width: 10%; /* Adjust this percentage as needed */
     height: auto;   /* Maintains the aspect ratio */
     display: block;
     margin: 0 auto; /* Centers the image */
