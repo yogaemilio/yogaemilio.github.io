@@ -7,7 +7,7 @@ body {
 }
 
 p {
-    max-width: 800px; /* or any width that suits your design */
+    max-width: 600px; /* or any width that suits your design */
     margin: 0 auto;   /* centers the paragraph */
     text-align: justify; /* optional: this aligns the text nicely */
 }
