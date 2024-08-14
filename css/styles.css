@@ -22,7 +22,7 @@ ul {
 }
 
 ul li {
-    margin: 1.6em 0; /* Set the top and bottom margin to match the line-height */
+    margin: 0.8em 0; /* Set the top and bottom margin to match the line-height */
     padding-left: 25px; /* Add padding to indent the whole bullet point */
     line-height: 1.6; /* Adjust the line height within each list item */
 }
