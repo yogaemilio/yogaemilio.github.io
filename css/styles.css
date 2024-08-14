@@ -23,6 +23,7 @@ ul {
 
 ul li {
     margin: 10px 0; /* Add space between the list items */
+    text-indent: 20px; /* This adds a tab-like space before each list item */
 }
 
 .vertical-image {
