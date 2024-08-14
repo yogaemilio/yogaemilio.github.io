@@ -6,6 +6,12 @@ body {
     background-color: #f4f4f4;
 }
 
+p {
+    max-width: 800px; /* or any width that suits your design */
+    margin: 0 auto;   /* centers the paragraph */
+    text-align: justify; /* optional: this aligns the text nicely */
+}
+
 .vertical-image {
     width: 500px; /* or any specific width */
     height: auto; /* Maintains the aspect ratio */
