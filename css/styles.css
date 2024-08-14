@@ -12,6 +12,18 @@ p {
     text-align: justify; /* optional: this aligns the text nicely */
 }
 
+ul {
+    max-width: 600px; /* Set a maximum width for the list */
+    margin: 0 auto 20px auto; /* Center the list and add some margin at the bottom */
+    padding: 0 20px; /* Add some padding on the sides */
+    text-align: left; /* Align the text to the left */
+    list-style-type: disc; /* Use disc bullets */
+}
+
+ul li {
+    margin: 10px 0; /* Add space between the list items */
+}
+
 .vertical-image {
     width: 500px; /* or any specific width */
     height: auto; /* Maintains the aspect ratio */
