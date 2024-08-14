@@ -8,8 +8,9 @@ body {
 
 p {
     max-width: 600px; /* or any width that suits your design */
-    margin: 0 auto;   /* centers the paragraph */
+    margin: 0 auto 20px auto;   /* centers the paragraph and adds space at the bottom */
     text-align: justify; /* optional: this aligns the text nicely */
+    line-height: 1.6; /* optional: increase line height for better readability */
 }
 
 ul {
